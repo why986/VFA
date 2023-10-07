@@ -2,3 +2,4 @@ __pycache__
 saved_models/
 results/
 BFM/BFM09_model_info.mat
+weights/
