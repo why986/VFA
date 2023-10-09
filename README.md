@@ -6,7 +6,7 @@ This is the official PyTorch implementation of the ACM Multimedia 2023 paper "Ve
 
 <img src="photos/Overview.jpg" alt="Overview" style="zoom:80%;" />
 
-<img src="photos/demo_results.gif" width="500">
+<div align=center><img src="photos/demo_results.gif" width="700"></div>
 
 ## Installation
 
