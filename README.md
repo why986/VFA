@@ -81,12 +81,12 @@ Our model is trained on [MMFace4D](https://arxiv.org/abs/2303.09797). We use [Me
     |-- people1
         |-- color
         	|-- video1.mp4
-					|-- video2.mp4
-					|-- ...
+          |-- video2.mp4
+          |-- ...
         |-- depth
         	|-- video1.nut
-					|-- video2.nutß
-					|-- ...
+          |-- video2.nut
+          |-- ...
     |-- people2
         |-- color
         |-- depth
